@@ -13,8 +13,8 @@ http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=KEY&rt=P
 http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=KEY&rt=pink
 http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=KEY&rt=Y`
 
-Eac circle represents a train, and each color represents a line on the CTA :
-BLUE, RED, BROWN, GREEN,ORANGE, PURPLE, PINK, and YELLOW.
+Each circle represents a train, and each color represents a line on the CTA :
+BLUE, RED, BROWN, GREEN, ORANGE, PURPLE, PINK, and YELLOW.
 
 If a circle has a black outlining, then that means that train is heading inbound, and if it doesn't have an outline, the direction of the train is outbound.
 
