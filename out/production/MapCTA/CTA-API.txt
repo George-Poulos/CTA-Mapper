@@ -1,0 +1,8 @@
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=blue
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=red
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=brn
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=G
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=org
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=P
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=pink
+http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?key=a120319631004c3aa118df50e9c6c62a&rt=Y
